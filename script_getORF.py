@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 fastaseq = open(sys.argv[1], "r")
 genes = {}
